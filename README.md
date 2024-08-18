@@ -15,20 +15,26 @@
 <p>Display an overview including how many average sleep hours each individual sleep type is taking and how much average quality of sleep do they get.</p>
 
 ### Analyzing Factors Contributing to Sleep Disorders
-<p>Show the relationship between sleep disorders and average sleep quality.</p>
-<p>Show the relationship between sleep disorders and average sleep duration (hours)</p>
-<p>Visualize the relationship between sleep disorders and average heart rate.</p>
-<p>Visualize the relationship between sleep disorders and average stress level.</p>
-<p>Visualize the relationship between BMI categories and the number of individuals with each sleep disorder.</p>
-<p>Explore the correlation between gender and sleep disorders.</p>
-<p>Dispaly the relationship between Sleep order and average quality of sleep.</p>
-<p>Dispaly the relationship between Sleep order and average daily steps.</p>
+<ol>
+    <li>Show the relationship between sleep disorders and average sleep quality.</li>
+    <li>Show the relationship between sleep disorders and average sleep duration (hours).</li>
+    <li>Visualize the relationship between sleep disorders and average heart rate.</li>
+    <li>Visualize the relationship between sleep disorders and average stress level.</li>
+    <li>Visualize the relationship between BMI categories and the number of individuals with each sleep disorder.</li>
+    <li>Explore the correlation between gender and sleep disorders.</li>
+    <li>Display the relationship between sleep disorders and average quality of sleep.</li>
+    <li>Display the relationship between sleep disorders and average daily steps.</li>
+</ol>
+
 
 ### Investigating Factors Influencing Sleep Quality
-<p>Examine the relationship between sleep quality and age through visualization.</p>
-<p>Visualize the correlation between sleep quality and heart rate.</p>
-<p>Explore the connection between sleep quality and sleep duration.</p>
-<p>Display a chart that illustrates the link between sleep quality and stress level.</p>
+<ol>
+    <li>Examine the relationship between sleep quality and age through visualization.</li>
+    <li>Visualize the correlation between sleep quality and heart rate.</li>
+    <li>Explore the connection between sleep quality and sleep duration.</li>
+    <li>Display a chart that illustrates the link between sleep quality and stress level.</li>
+</ol>
+
 
 ## Sleep disorder indivudial details Dashboard | Requirements
 
