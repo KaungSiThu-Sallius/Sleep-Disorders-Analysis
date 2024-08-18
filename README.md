@@ -15,46 +15,27 @@
 <p>Display an overview including how many average sleep hours each individual sleep type is taking and how much average quality of sleep do they get.</p>
 
 ### Analyzing Factors Contributing to Sleep Disorders
+<p>Show the relationship between sleep disorders and average sleep quality.</p>
+<p>Show the relationship between sleep disorders and average sleep duration (hours)</p>
 <p>Visualize the relationship between sleep disorders and average heart rate.</p>
-<p>Visuzlize the number of person in realation between BMI category and sleep disorder.</p>
+<p>Visualize the relationship between sleep disorders and average stress level.</p>
+<p>Visualize the relationship between BMI categories and the number of individuals with each sleep disorder.</p>
+<p>Explore the correlation between gender and sleep disorders.</p>
+<p>Dispaly the relationship between Sleep order and average quality of sleep.</p>
+<p>Dispaly the relationship between Sleep order and average daily steps.</p>
 
-### Education and Age Group vs. Turnover
-<p>Display the number of turnovers by education and age group, providing insights into which education level and age group have the highest turnover rates.</p>
+### Investigating Factors Influencing Sleep Quality
+<p>Examine the relationship between sleep quality and age through visualization.</p>
+<p>Visualize the correlation between sleep quality and heart rate.</p>
+<p>Explore the connection between sleep quality and sleep duration.</p>
+<p>Display a chart that illustrates the link between sleep quality and stress level.</p>
 
-### Department and Job Role vs. Turnover
-<p>Display the number of turnovers by department and job role, providing insights into which departments and job roles have the highest turnover rates.</p>
-
-### Business Travel Frequency vs. Number of Turnovers
-<p>Visualize how the frequency of business travel is related to the number of employee turnovers, providing insights into whether frequent travel impacts employee retention.</p>
-
-### Overtime vs. Number of Turnovers
-<p>Examine how the amount of overtime worked correlates with the number of employee turnovers, providing insights into whether excessive overtime contributes to higher turnover rates.</p>
-
-### Distance from Home vs. Number of Turnovers
-<p>Visualize how the distance between employees' homes and the workplace relates to the number of turnovers, assessing whether long commutes are linked to higher turnover rates.</p>
-
-### Performance Rating vs. Number of Turnovers
-<p>Explore the connection between employees' performance ratings and the number of turnovers, identifying whether lower or higher performance ratings are associated with higher turnover rates.</p>
-
-### Training Sessions Last Year vs. Number of Turnovers
-<p>Analyze the impact of the number of training sessions attended in the last year on employee turnover, determining whether more frequent training is linked to lower turnover.</p>
-
-### Years in Current Role vs. Number of Turnovers
-<p>Examine the relationship between the number of years employees have spent in their current role and the number of turnovers, assessing whether longer tenure in a role influences turnover rates.</p>
-
-### Years Since Last Promotion vs. Number of Turnovers
-<p>Investigate how the number of years since an employee's last promotion relates to the number of turnovers, exploring whether a lack of recent promotions contributes to higher turnover rates.</p>
-
-## Employee Details Dashboard | Requirements
+## Sleep disorder indivudial details Dashboard | Requirements
 
 ### Dashboard Purpose
-<p>The purpose of this dashboard is to deliver detailed information about employees, including their age, gender, education, tenure, performance, and whether they are currently employed or not.</p>
+<p>The purpose of this dashboard is to provide detailed information about individuals affected by various factors.</p>
 
-## Employee Turnover Analysis Dashboard 
-![Summary Dashboard](https://github.com/user-attachments/assets/af18dff3-ee19-4cb6-bbb0-fb5fc596f61d)
 
-## Turnover Employee Details Dashboard
-![Employee Dashboard](https://github.com/user-attachments/assets/29f3c820-3b9c-45f4-bea2-de4a8f3554f2)
 
 
 
