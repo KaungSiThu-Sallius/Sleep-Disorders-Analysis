@@ -22,7 +22,7 @@
     <li>Visualize the relationship between sleep disorders and average stress level.</li>
     <li>Visualize the relationship between BMI categories and the number of individuals with each sleep disorder.</li>
     <li>Explore the correlation between gender and sleep disorders.</li>
-    <li>Display the relationship between sleep disorders and average daily steps.</li>
+    <li>Display the relationship between sleep disorders and age group.</li>
 </ol>
 
 
