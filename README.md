@@ -35,10 +35,20 @@
 </ol>
 
 
-## Sleep disorder indivudial details Dashboard | Requirements
+## Sleep Disorder Individual Details Dashboard | Requirements
 
 ### Dashboard Purpose
-<p>The purpose of this dashboard is to provide detailed information about individuals affected by various factors.</p>
+The purpose of this dashboard is to provide detailed information about individuals affected by various factors.
+
+---
+
+## Sleep Disorder Analysis Summary
+The Sleep Disorder Analysis dashboard presents insights into sleep patterns based on three primary categories: no disorder, sleep apnea, and insomnia. On average, individuals without sleep disorders sleep the longest at 7.36 hours, followed by those with sleep apnea at 7.03 hours, and insomnia sufferers at 6.59 hours. Sleep quality is highest for individuals without disorders, rated at 7.63, while those with sleep apnea and insomnia have lower ratings of 7.21 and 6.53, respectively. The analysis further explores sleep disorders based on BMI, stress levels, age groups, gender, and heart rates. Key findings reveal that individuals with obesity and higher stress levels are more likely to experience sleep apnea and insomnia, whereas lower stress levels and normal BMI are associated with no sleep disorders. Moreover, males are slightly more prone to sleep apnea, while females experience higher rates of insomnia. Heart rate analysis shows a higher average heart rate for individuals with sleep disorders compared to those without.
+
+---
+
+### Recommendations
+To improve sleep quality and mitigate sleep disorders, interventions targeting stress reduction and heart health may prove beneficial. Promoting a healthy BMI through diet and exercise could also reduce the prevalence of sleep apnea and insomnia. Tailored sleep hygiene programs, especially for females and individuals in older age groups who tend to report more sleep issues, could help improve sleep duration and quality. Finally, further studies to investigate the relationship between stress management techniques and sleep improvement are recommended, as this factor appears to significantly impact sleep quality and disorder prevalence.
 
 
 
